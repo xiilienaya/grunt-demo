@@ -1,0 +1,9 @@
+{
+  // unicorns
+  "qualified-headings": true,
+  "unique-headings": true,
+  "known-properties": false,
+  "order-alphabetical":false,
+  "ids":false,
+  "universal-selector":fasle
+}
